@@ -1,0 +1,74 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.form {
+  margin-top: 10vh;
+  width: 40vw;
+}
+
+.form h2 {
+  margin-left: 30px;
+  color: rgb(15, 135, 135);
+}
+
+.table {
+  position: absolute;
+  top: 20vh;
+  right: 10vw;
+  width: 60vw;
+}
+
+.btn {
+  background-color: rgb(112, 225, 225);
+  width: 20vw;
+  margin-top: 10px;
+}
+
+.searchinput {
+  position: absolute;
+  width: 60vw;
+  margin-top: 2vh;
+  padding: 10px;
+  /* padding-left: 20px; */
+  margin-left: 30vw;
+  border-radius: 5px;
+  border: 1px solid rgb(15, 135, 135);
+
+}
+
+.deletebtn {
+
+  padding: 5px 10px;
+
+  border: none;
+  color: rgb(15, 135, 135);
+}
+
+.spanalert {
+  color: red;
+  margin-left: 22px;
+}
+
+/* ---------------------update form---------------- */
+.updateform {
+  margin-top: 10vh;
+  width: 50vw;
+  margin-left: 35vw;
+}
+
+.updateform h2 {
+  margin-left: 30px;
+  color: rgb(15, 135, 135);
+}
+
+.updatebtn {
+  background-color: rgb(112, 225, 225);
+  width: 25vw;
+  padding: 15px;
+  margin-top: 10px;
+  border: none;
+  border-radius:5px;
+}
